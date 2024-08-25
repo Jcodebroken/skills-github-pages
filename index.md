@@ -1,4 +1,4 @@
 ---
-title: Welcome to James' blog
+hello: Welcome to James' blog
 ---
 
